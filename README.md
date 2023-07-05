@@ -1,15 +1,25 @@
-<h1 align="center">Hi 👋, I'm Matheus Dourado</h1>
-<h3 align="center">Embarking on My Front-End Journey 🚀 | Aspiring Front-End Developer</h3>
+# Olá, eu sou Matheus Dourado! 👋
 
-- 🌱 I’m currently learning **React.JS**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/matheusdfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/matheusdfa" height="30" width="40" /></a>
-</p>
+## 🚀 Sobre mim
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h3>Olá! Sou um desenvolvedor front-end iniciante em busca de novas oportunidades e experiências. Estou apaixonado por criar interfaces atraentes e funcionais, e já iniciei alguns projetos como freelancer.<br>
+Estou constantemente aprendendo e aprimorando minhas habilidades para oferecer soluções de alta qualidade. Estou animado para colaborar em projetos desafiadores e contribuir para o sucesso de equipes de desenvolvimento. Vamos construir algo incrível juntos!</h3>
+
+
+
+## 🛠 Linguagens e Ferramentas
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a> </p>
+
+
+
+## 👩‍💻 Trabalho atualmente com Freelancer
+
+## 🧠 Estou aprendendo React.JS
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthdourado&show_icons=true&locale=en&layout=compact" alt="matthdourado" /></p>
 
